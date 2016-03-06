@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Team project\CODE\Finished game (Hangmen)\HangManByGILEADTeam\HangMan\bin\Debug\HangMan.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Team project\CODE\Finished game (Hangmen)\HangManByGILEADTeam\HangMan\bin\Debug\HangMan.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Team project\CODE\Finished game (Hangmen)\HangManByGILEADTeam\HangMan\bin\Debug\HangMan.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Team project\CODE\Finished game (Hangmen)\HangManByGILEADTeam\HangMan\obj\Debug\HangMan.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Team project\CODE\Finished game (Hangmen)\HangManByGILEADTeam\HangMan\obj\Debug\HangMan.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Team project\CODE\Finished game (Hangmen)\HangManByGILEADTeam\HangMan\obj\Debug\HangMan.pdb
